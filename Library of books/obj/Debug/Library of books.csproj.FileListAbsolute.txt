@@ -1,0 +1,20 @@
+D:\Other\My program\Library of books\Library of books\obj\Debug\Library of books.csprojResolveAssemblyReference.cache
+D:\Other\My program\Library of books\Library of books\obj\Debug\Library_of_books.Properties.Resources.resources
+D:\Other\My program\Library of books\Library of books\obj\Debug\Library_of_books.fmMain.resources
+D:\Other\My program\Library of books\Library of books\obj\Debug\Library of books.csproj.GenerateResource.Cache
+D:\Other\My program\Library of books\Library of books\bin\Debug\Library of books.exe.config
+D:\Other\My program\Library of books\Library of books\bin\Debug\Library of books.exe
+D:\Other\My program\Library of books\Library of books\bin\Debug\Library of books.pdb
+D:\Other\My program\Library of books\Library of books\obj\Debug\Library of books.exe
+D:\Other\My program\Library of books\Library of books\obj\Debug\Library of books.pdb
+D:\OneDrive\Programming\C# Program\Library of books\Library of books\obj\Debug\Library of books.csprojResolveAssemblyReference.cache
+D:\OneDrive\Programming\C# Program\Library of books\Library of books\obj\Debug\Library_of_books.Properties.Resources.resources
+D:\OneDrive\Programming\C# Program\Library of books\Library of books\obj\Debug\Library_of_books.fmMain.resources
+D:\OneDrive\Programming\C# Program\Library of books\Library of books\obj\Debug\Library of books.csproj.GenerateResource.Cache
+D:\OneDrive\Programming\C# Program\Library of books\Library of books\obj\Debug\Library of books.exe
+D:\OneDrive\Programming\C# Program\Library of books\Library of books\obj\Debug\Library of books.pdb
+D:\OneDrive\Programming\C# Program\Library of books\Library of books\bin\Debug\Library of books.exe.config
+D:\OneDrive\Programming\C# Program\Library of books\Library of books\bin\Debug\Library of books.exe
+D:\OneDrive\Programming\C# Program\Library of books\Library of books\bin\Debug\Library of books.pdb
+D:\OneDrive\Programming\C# Program\Library of books\Library of books\bin\Debug\DB.mdf
+D:\OneDrive\Programming\C# Program\Library of books\Library of books\bin\Debug\DB_log.ldf

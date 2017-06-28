@@ -1,0 +1,5 @@
+3|Cars||2016|1
+<
+0|Audi|Artem|  |2016|About Audi Q7
+1|BMW|Artem|  |2016|About BMW C class 2016 produced year
+>

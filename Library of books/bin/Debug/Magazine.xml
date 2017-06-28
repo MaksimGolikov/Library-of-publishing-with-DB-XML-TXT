@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<ArrayOfMagazine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Magazine>
+    <ID>1</ID>
+    <NameBook>Garden</NameBook>
+    <PublishingYear>2014</PublishingYear>
+    <Description>About garden and planting</Description>
+    <AuthorID>0</AuthorID>
+    <Release>1</Release>
+    <Article>
+      <Book>
+        <ID>0</ID>
+        <NameBook>Potato</NameBook>
+        <Author>Max</Author>
+        <PublishingHouse>  </PublishingHouse>
+        <PublishingYear>2014</PublishingYear>
+        <Description>How to plant potatos</Description>
+        <AuthorID>0</AuthorID>
+      </Book>
+      <Book>
+        <ID>1</ID>
+        <NameBook>Tomato</NameBook>
+        <Author>Max</Author>
+        <PublishingHouse>  </PublishingHouse>
+        <PublishingYear>2014</PublishingYear>
+        <Description>How to plant tomatos</Description>
+        <AuthorID>0</AuthorID>
+      </Book>
+    </Article>
+    <NextArticleID>2</NextArticleID>
+  </Magazine>
+</ArrayOfMagazine>
